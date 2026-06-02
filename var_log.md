@@ -4,6 +4,702 @@ title: "/var/log"
 permalink: /var/log
 ---
 
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+
+```shell
+
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+3:00 PM (5 minutes ago)
+to douglas.j.newman@nasa.gov, betpressinfo@bet.net, normani@fifthharmonyofficial.com, Mobile, GBI.CrimeLab@gbi.ga.gov, customer_services_dfcs@dhs.ga.gov, denise.watts@sccpss.com, housingandhumanservices, dekalbwaterops@dekalbcountyga.gov, city.clerk, jisaacman@shift4.com, ksc-newsroom@mail.nasa.gov, jplnewsroom@jpl.nasa.gov, HollyJMitchell@bos.lacounty.gov, The, Whs, kathryn@bos.lacounty.gov, keishaforgovernor@gmail.com, atlantacouncil@atlantaga.gov, gina.n.anderson@nasa.gov
+
+@jisaacman@shift4.com @ksc-newsroom@mail.nasa.gov https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 @jplnewsroom@jpl.nasa.gov as you can see @HollyJMitchell@bos.lacounty.gov @The White House @Whs Pentagon Esd Mbx Secrev Pete JPL and BET have the same company managing email this is CRAZY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! @kathryn@bos.lacounty.gov @keishaforgovernor@gmail.com @atlantacouncil@atlantaga.gov @gina.n.anderson@nasa.gov 
+
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+
+C:\Users\PAC>nslookup -type=mx bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+
+C:\Users\PAC>
+
+---------- Forwarded message ---------
+From: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Date: Fri, May 29, 2026 at 2:46 PM
+Subject: Delivery Status Notification (Failure)
+To: <holetoanotheruniverse40@gmail.com>
+```
+
+
+@cityoflosangeles @longbeachinnovationteam @blackgirlscode @nasa-giss @nasa-develop @doug-newman-nasa
+```shell
+
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=ns
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+> eop.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+eop.gov nameserver = wally.ns.cloudflare.com
+eop.gov nameserver = ernest.ns.cloudflare.com
+
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+> whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+whitehouse.gov  nameserver = wally.ns.cloudflare.com
+whitehouse.gov  nameserver = ernest.ns.cloudflare.com
+
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+> tax.ny.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+ny.gov
+        primary name server = ns2.ny.gov
+        responsible mail addr = hostmaster.ny.gov
+        serial  = 790561149
+        refresh = 3600 (1 hour)
+        retry   = 5400 (1 hour 30 mins)
+        expire  = 604800 (7 days)
+  ny.govdefault TTL = 5400 (1 hour 30 mins)
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+ny.gov  nameserver = ns2.ny.gov
+ny.gov  nameserver = ns3.ny.gov
+
+ns2.ny.gov      internet address = 161.11.226.170
+> nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        nameserver = a14-67.akam.net
+nasa.gov        nameserver = a5-66.akam.net
+nasa.gov        nameserver = a8-66.akam.net
+nasa.gov        nameserver = a9-64.akam.net
+nasa.gov        nameserver = a1-32.akam.net
+nasa.gov        nameserver = a12-64.akam.net
+
+a8-66.akam.net  internet address = 2.16.40.66
+> fb.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+fb.com  nameserver = a.ns.facebook.com
+fb.com  nameserver = c.ns.facebook.com
+fb.com  nameserver = b.ns.facebook.com
+fb.com  nameserver = d.ns.facebook.com
+
+a.ns.facebook.com       internet address = 129.134.30.12
+a.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f0fc:c:face:b00c:0:35
+c.ns.facebook.com       internet address = 185.89.218.12
+c.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f1fc:c:face:b00c:0:35
+b.ns.facebook.com       internet address = 129.134.31.12
+b.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f0fd:c:face:b00c:0:35
+d.ns.facebook.com       internet address = 185.89.219.12
+d.ns.facebook.com       AAAA IPv6 address = 2a03:2880:f1fd:c:face:b00c:0:35
+> longbeach.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+longbeach.gov   nameserver = b8.uberns.com
+longbeach.gov   nameserver = dns01.ci.long-beach.ca.us
+longbeach.gov   nameserver = a8.uberns.com
+longbeach.gov   nameserver = dns02.ci.long-beach.ca.us
+
+b8.uberns.com   internet address = 216.59.57.8
+b8.uberns.com   AAAA IPv6 address = 2602:ffe2:54::8
+dns01.ci.long-beach.ca.us       internet address = 204.108.16.111
+a8.uberns.com   internet address = 216.59.60.8
+dns02.ci.long-beach.ca.us       internet address = 204.108.16.112
+> sc.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+sc.gov  nameserver = ns11.constellix.com
+sc.gov  nameserver = ns21.constellix.com
+sc.gov  nameserver = ns31.constellix.com
+sc.gov  nameserver = ns41.constellix.net
+sc.gov  nameserver = ns51.constellix.net
+sc.gov  nameserver = ns61.constellix.net
+
+ns11.constellix.com     internet address = 96.45.80.1
+ns11.constellix.com     AAAA IPv6 address = 2600:180a:1001::1
+ns21.constellix.com     internet address = 46.31.236.1
+ns21.constellix.com     AAAA IPv6 address = 2600:180b:2001::1
+ns31.constellix.com     internet address = 43.247.170.1
+ns31.constellix.com     AAAA IPv6 address = 2600:180c:3001::1
+ns41.constellix.net     internet address = 96.45.81.1
+ns41.constellix.net     AAAA IPv6 address = 2600:180a:4001::1
+ns51.constellix.net     internet address = 46.31.237.1
+ns51.constellix.net     AAAA IPv6 address = 2600:180b:5001::1
+ns61.constellix.net     internet address = 43.247.171.1
+ns61.constellix.net     AAAA IPv6 address = 2600:180c:6001::1
+> nevadatreasurer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nevadatreasurer.gov     nameserver = blue.foundationdns.com
+nevadatreasurer.gov     nameserver = blue.foundationdns.net
+nevadatreasurer.gov     nameserver = blue.foundationdns.org
+
+blue.foundationdns.com  internet address = 162.159.60.1
+blue.foundationdns.com  internet address = 108.162.198.1
+blue.foundationdns.com  internet address = 172.64.40.1
+blue.foundationdns.com  AAAA IPv6 address = 2a06:98c1:56::ac40:2801
+blue.foundationdns.com  AAAA IPv6 address = 2606:4700:57::6ca2:c601
+blue.foundationdns.com  AAAA IPv6 address = 2803:f800:52::a29f:3c01
+blue.foundationdns.net  internet address = 162.159.60.31
+blue.foundationdns.net  internet address = 108.162.198.31
+blue.foundationdns.net  internet address = 172.64.40.31
+blue.foundationdns.net  AAAA IPv6 address = 2606:4700:57::6ca2:c61f
+blue.foundationdns.net  AAAA IPv6 address = 2803:f800:52::a29f:3c1f
+blue.foundationdns.net  AAAA IPv6 address = 2a06:98c1:56::ac40:281f
+blue.foundationdns.org  internet address = 162.159.60.61
+blue.foundationdns.org  internet address = 172.64.40.61
+blue.foundationdns.org  internet address = 108.162.198.61
+blue.foundationdns.org  AAAA IPv6 address = 2803:f800:52::a29f:3c3d
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        nameserver = ns-90-c.gandi.net
+nast.org        nameserver = ns-28-b.gandi.net
+nast.org        nameserver = ns-29-a.gandi.net
+
+ns-90-c.gandi.net       internet address = 217.70.187.91
+ns-90-c.gandi.net       AAAA IPv6 address = 2604:3400:aaac::5b
+ns-28-b.gandi.net       internet address = 213.167.230.29
+ns-28-b.gandi.net       AAAA IPv6 address = 2001:4b98:aaab::1d
+ns-29-a.gandi.net       internet address = 173.246.100.30
+ns-29-a.gandi.net       AAAA IPv6 address = 2001:4b98:aaaa::1e
+>
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx
+Default Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+> eop.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+eop.gov MX preference = 10, mail exchanger = inbound.mail.dmz.pitc.gov
+> whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+whitehouse.gov
+        primary name server = ernest.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2403559660
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+> jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+> nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        MX preference = 0, mail exchanger = nasa-gov.mail.protection.outlook.com
+
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.11.12
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.9.19
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.50
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.52
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f90e::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f900::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::1
+> bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+> dignityhealth.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+dignityhealth.org       MX preference = 10, mail exchanger = mxa-00116001.gslb.pphosted.com
+dignityhealth.org       MX preference = 10, mail exchanger = mxb-00116001.gslb.pphosted.com
+
+mxa-00116001.gslb.pphosted.com  internet address = 148.163.158.210
+mxb-00116001.gslb.pphosted.com  internet address = 148.163.156.240
+> jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+> ny.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+ny.gov  MX preference = 10, mail exchanger = ny-gov.mail.protection.outlook.com
+
+ny-gov.mail.protection.outlook.com      internet address = 52.101.8.52
+ny-gov.mail.protection.outlook.com      internet address = 52.101.9.19
+ny-gov.mail.protection.outlook.com      internet address = 52.101.11.12
+ny-gov.mail.protection.outlook.com      internet address = 52.101.8.50
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f904::
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f90e::1
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f900::1
+ny-gov.mail.protection.outlook.com      AAAA IPv6 address = 2a01:111:f403:f904::1
+> tax.ny.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+tax.ny.gov      MX preference = 5, mail exchanger = tax-ny-gov.mail.protection.outlook.com
+
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.8.50
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.9.19
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.11.12
+tax-ny-gov.mail.protection.outlook.com  internet address = 52.101.8.52
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f904::
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f90e::1
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f900::1
+tax-ny-gov.mail.protection.outlook.com  AAAA IPv6 address = 2a01:111:f403:f904::1
+> nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nasa.gov        MX preference = 0, mail exchanger = nasa-gov.mail.protection.outlook.com
+
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.50
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.9.19
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.11.12
+nasa-gov.mail.protection.outlook.com    internet address = 52.101.8.52
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f90e::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f900::1
+nasa-gov.mail.protection.outlook.com    AAAA IPv6 address = 2a01:111:f403:f904::
+> fb.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+fb.com  MX preference = 10, mail exchanger = mxa-00082601.gslb.pphosted.com
+fb.com  MX preference = 10, mail exchanger = mxb-00082601.gslb.pphosted.com
+
+mxa-00082601.gslb.pphosted.com  internet address = 67.231.153.30
+mxb-00082601.gslb.pphosted.com  internet address = 67.231.145.42
+> bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+> horizons.jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+horizons.jpl.nasa.gov   canonical name = ssd.jpl.nasa.gov
+ssd.jpl.nasa.gov        MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+ssd.jpl.nasa.gov        MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+> longbeach.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+longbeach.gov   MX preference = 10, mail exchanger = mxb-00539a01.gslb.pphosted.com
+longbeach.gov   MX preference = 10, mail exchanger = mxa-00539a01.gslb.pphosted.com
+
+mxb-00539a01.gslb.pphosted.com  internet address = 148.163.134.252
+mxa-00539a01.gslb.pphosted.com  internet address = 148.163.134.252
+> bet..com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+*** LBPADC2.lbpa.local can't find bet..com: Unspecified error
+> bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+> jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.155.103
+> dignityhealth.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+dignityhealth.org       MX preference = 10, mail exchanger = mxb-00116001.gslb.pphosted.com
+dignityhealth.org       MX preference = 10, mail exchanger = mxa-00116001.gslb.pphosted.com
+
+mxb-00116001.gslb.pphosted.com  internet address = 148.163.156.240
+mxa-00116001.gslb.pphosted.com  internet address = 148.163.156.240
+> sc.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+sc.com  MX preference = 10, mail exchanger = mxa-001ac208.gslb.pphosted.com
+sc.com  MX preference = 10, mail exchanger = mxb-001ac208.gslb.pphosted.com
+
+mxa-001ac208.gslb.pphosted.com  internet address = 66.159.232.66
+mxb-001ac208.gslb.pphosted.com  internet address = 143.55.149.216
+> nevadatreasurer.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nevadatreasurer.gov     MX preference = 10, mail exchanger = d247845b.ess.barracudanetworks.com
+nevadatreasurer.gov     MX preference = 5, mail exchanger = d247845a.ess.barracudanetworks.com
+
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.255
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.253
+d247845b.ess.barracudanetworks.com      internet address = 209.222.82.252
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.255
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.253
+d247845a.ess.barracudanetworks.com      internet address = 209.222.82.252
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        MX preference = 10, mail exchanger = mx0.topicbox.com
+nast.org        MX preference = 10, mail exchanger = mx1.topicbox.com
+
+mx0.topicbox.com        internet address = 103.168.172.232
+mx1.topicbox.com        internet address = 103.168.172.233
+>
+```
+
+
+@la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
+
+[`https://www.ra5hard.github.io/`](https://www.ra5hard.github.io/)
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/55aba2ba-3cf6-40d5-ab6b-bc18aa7615e9" />
+
+
+```
+516 Upstream Certificate CN Mismatch
+
+The SSL security certificate presented by this site was issued for a different
+ site's address. This happens when the common name of the SSL Certificate
+doesn't exactly match the name displayed in the address bar. Certificate
+doesn't exactly match the name displayed in the address bar and can indicate
+that attackers might be trying to steal your information (for example,
+passwords, messages, or credit cards). If you believe you are seeing this
+message in error, please contact your network administrator.
+
+
+```
+
+@nasa-jpl all municipalities need to share dns sources with the public @cisa @lacmta @whitehouse @nasa-develop @blackgirlscode @cityoflosangeles @foratlanta treason @newshour 
+
+# General B. Chance Saltzman [bio](https://www.spaceforce.mil/biographies/display/article/2329659/b-chance-saltzman/)
+im reporting to you bc you were stationed in Los Angeles and i am active mission mars @nasa-jpl, I was one of jehovahs witnesses. But during the [2026 AFA graduating class in Colorado Springs](https://www.youtube.com/watch?v=3LgMjFihHU8) when the grads took thier vow i raised my hand and took mine to defend the constitution @StateOfCalifornia this does not work with the Jehovahs Witness belife system and im trying to reduce war in my life @La-County-Isd @DeptOfWar . . . [@USnavy  jose pi](https://moriassociates.com/contact-us/)  and i have a sorted but not past, they hired me! And it was not practical to visit mori... thats all i can say, and now since i have been departnered i need to have a clear path for my growth to continue in a less pain full trajectory @CityOfLosAngeles @ForAtlanta @BlackgirlsCode @Howard-University_web-Services
+
+[General B. Chance Saltzman - media.defense.gov/2025/Jun/26/2003743861/1200/1200/0/250624-F-KN215-0019.JPG](https://media.defense.gov/2025/Jun/26/2003743861/1200/1200/0/250624-F-KN215-0019.JPG) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/a7ac9f68-5346-4474-8d5f-882477fcc906" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7e9db159-dbf6-44b1-9277-d1ef0dc50cd3" />
+
+
+<img   alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
+
+
+---
+
+@cisco
+
+```
+This page is served by Cisco Secure Access.
+
+ Server: swg-nginx-proxy-https-ed39b0ae52f9.signginx.lax
+
+Wed, 15 Apr 2026 22:00:37 GMT
+```
+
+
+Rashard Kelly Profile Information
+Name: Rashard I Kelly @nasa
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-15-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.11 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa it was just a dance class and ppl started stealing from me like @whitehouse [dns](https://www.lapdonline.org/) @cityoflosangeles
+
+
+avatar of user ThakaRashard
+Message fromThakaRashard
+Message was sent1 minute ago
+one of my pages urls is blocked at the library in Los angeles
+
+Message 2 of 4 from Copilot received at 3:02:15 PM That usually points to a **network restriction**, not a GitHub Pages problem with your site itself. If a GitHub Pages URL is blocked from a specific location (like a public library in Los Angeles), it’s typically because the library’s network filters block GitHub domains or GitHub Pages content. Here’s how to narrow it down and what you can do: ### 1. Confirm it’s a network block From the library network: - Try opening a different GitHub Pages site (for example, `https://github.io` user sites). - Try opening `https://github.com` directly. If GitHub or other Pages sites are also blocked, that confirms it’s the library’s network policy. ### 2. Check whether your site is reachable elsewhere From a different network (home, mobile hotspot): - Open the same Pages URL. - If it loads normally, your site isn’t blocked by GitHub. You can also quickly rule out a Pages error by checking: - **[GitHub Status](https://githubstatus.com)** for incidents - That your site doesn’t return a 404 (see **[Troubleshooting 404 errors for GitHub Pages sites](https://docs.github.com/en/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites)**) ### 3. What the library would need to allow If the library is willing to help, their network admin can allow GitHub’s domains. GitHub documents how to do this here: - **[Allowing access to GitHub’s services from a restricted network](https://docs.github.com/en/get-started/using-github/allowing-access-to-githubs-services-from-a-restricted-network)** They can also retrieve GitHub’s domain list using the REST API if needed (not guaranteed to be fully comprehensive). ### 4. Important limitations GitHub Support can’t unblock a site on a third‑party network, and GitHub Pages doesn’t offer IP‑based allow/deny controls. The unblock has to happen on the library’s side. If you want, tell me: - The **exact Pages URL** - Whether this is a **user/organization site** or a **project site** - What **error message** shows at the library (blocked page text, timeout, DNS error, etc.) That helps confirm there’s nothing Pages‑specific contributing to the block.
+Message fromCopilot
+Message was sent1 minute ago
+That usually points to a network restriction, not a GitHub Pages problem with your site itself.
+
+If a GitHub Pages URL is blocked from a specific location (like a public library in Los Angeles), it’s typically because the library’s network filters block GitHub domains or GitHub Pages content.
+
+Here’s how to narrow it down and what you can do:
+
+1. Confirm it’s a network block
+From the library network:
+
+Try opening a different GitHub Pages site (for example, https://github.io user sites).
+Try opening https://github.com directly.
+If GitHub or other Pages sites are also blocked, that confirms it’s the library’s network policy.
+
+2. Check whether your site is reachable elsewhere
+From a different network (home, mobile hotspot):
+
+Open the same Pages URL.
+If it loads normally, your site isn’t blocked by GitHub.
+You can also quickly rule out a Pages error by checking:
+
+GitHub Status (opens in a new tab) for incidents
+That your site doesn’t return a 404 (see Troubleshooting 404 errors for GitHub Pages sites (opens in a new tab))
+3. What the library would need to allow
+If the library is willing to help, their network admin can allow GitHub’s domains. GitHub documents how to do this here:
+
+Allowing access to GitHub’s services from a restricted network (opens in a new tab)
+They can also retrieve GitHub’s domain list using the REST API if needed (not guaranteed to be fully comprehensive).
+
+4. Important limitations
+GitHub Support can’t unblock a site on a third‑party network, and GitHub Pages doesn’t offer IP‑based allow/deny controls. The unblock has to happen on the library’s side.
+
+If you want, tell me:
+
+The exact Pages URL
+Whether this is a user/organization site or a project site
+What error message shows at the library (blocked page text, timeout, DNS error, etc.)
+That helps confirm there’s nothing Pages‑specific contributing to the block.
+
+References from GitHub Free/Team/Pro
+List of sources used to generate response
+Message 3 of 4 from user ThakaRashard sent at 3:02:25 PM 516 Upstream Certificate CN Mismatch The SSL security certificate presented by this site was issued for a different site's address. This happens when the common name of the SSL Certificate doesn't exactly match the name displayed in the address bar. Certificate doesn't exactly match the name displayed in the address bar and can indicate that attackers might be trying to steal your information (for example, passwords, messages, or credit cards). If you believe you are seeing this message in error, please contact your network administrator.
+avatar of user ThakaRashard
+Message fromThakaRashard
+Message was sentthis minute
+516 Upstream Certificate CN Mismatch The SSL security certificate presented by this site was issued for a different site's address. This happens when the common name of the SSL Certificate doesn't exactly match the name displayed in the address bar. Certificate doesn't exactly match the name displayed in the address bar and can indicate that attackers might be trying to steal your information (for example, passwords, messages, or credit cards). If you believe you are seeing this message in error, please contact your network administrator.
+
+Message 4 of 4 from Copilot received at 3:02:28 PM That error is specific enough to work with. It means the **TLS certificate being served does not match the domain name you’re visiting**, and on GitHub Pages that almost always points to a **custom domain or DNS issue**, not a regional block. Here’s how to fix it. --- ## What the error means A **“Upstream Certificate CN Mismatch”** happens when: - Your Pages site is reached, but - The HTTPS certificate GitHub has for it was issued for a *different hostname* Public networks (like libraries) often **enforce strict certificate validation**, so they’ll block the page instead of showing a warning. --- ## Most common causes on GitHub Pages ### 1. DNS is pointing to GitHub Pages, but the domain isn’t correctly configured in Pages Your DNS might point to `USERNAME.github.io`, but the **custom domain is missing, wrong, or stale** in repository settings. **Fix** 1. Open your repository 2. Go to **Settings → Pages** 3. Check **Custom domain** - Make sure it exactly matches the domain you’re visiting (no `http://`, no paths) 4. If it’s already there: - Click **Remove** - Re‑enter the domain - Click **Save** This forces GitHub to reprovision the certificate Docs: **[Securing your GitHub Pages site with HTTPS](https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https)** --- ### 2. Incorrect DNS records (very common) If *any* extra records exist, GitHub may issue a cert for the wrong host. Verify your DNS matches one of the supported setups exactly: #### Apex domain (`example.com`) Use **only one** of these approaches: **A records** ``` 185.199.108.153 185.199.109.153 185.199.110.153 185.199.111.153 ``` or **ALIAS / ANAME** ``` USERNAME.github.io ``` #### Subdomain (`www.example.com`) ``` CNAME → USERNAME.github.io ``` Docs: **[Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)** ⚠️ Remove: - Wildcard records (`*.example.com`) - Duplicate `A`, `AAAA`, or `CNAME` records for the same host --- ### 3. HTTPS certificate hasn’t finished provisioning After DNS or domain changes: - Certificate creation can take **up to an hour** - Some networks fail hard until it completes If you see **“Certificate not yet created”** in Pages settings: - Remove and re‑add the custom domain to restart the process Docs: **[Troubleshooting HTTPS errors](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/troubleshooting-custom-domains-and-github-pages#https-errors)** --- ### 4. Domain is not verified (recommended) Unverified domains are more likely to break when configurations change. **Verify the domain** at the account or organization level: - **[Verifying your custom domain for GitHub Pages](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/verifying-your-custom-domain-for-github-pages)** This also protects against takeover issues. --- ## Why it only fails at the LA library Many public institutions: - Use TLS‑inspecting proxies - Reject **any** CN mismatch outright - Don’t allow users to bypass warnings So even if the site “works at home,” the cert mismatch will get blocked there. --- ## Next step If you want a precise answer instead of a checklist, share: - The **exact URL** that’s blocked - Whether it’s using a **custom domain** - Whether Pages shows a ✅ or an error next to the domain With that, I can tell you exactly which record or setting is causing the mismatch.
+Message fromCopilot
+Message was sentthis minute
+That error is specific enough to work with. It means the TLS certificate being served does not match the domain name you’re visiting, and on GitHub Pages that almost always points to a custom domain or DNS issue, not a regional block.
+
+Here’s how to fix it.
+
+What the error means
+A “Upstream Certificate CN Mismatch” happens when:
+
+Your Pages site is reached, but
+The HTTPS certificate GitHub has for it was issued for a different hostname
+Public networks (like libraries) often enforce strict certificate validation, so they’ll block the page instead of showing a warning.
+
+Most common causes on GitHub Pages
+1. DNS is pointing to GitHub Pages, but the domain isn’t correctly configured in Pages
+Your DNS might point to USERNAME.github.io, but the custom domain is missing, wrong, or stale in repository settings.
+
+Fix
+
+Open your repository
+Go to Settings → Pages
+Check Custom domain
+Make sure it exactly matches the domain you’re visiting (no http://, no paths)
+If it’s already there:
+Click Remove
+Re‑enter the domain
+Click Save This forces GitHub to reprovision the certificate
+Docs: Securing your GitHub Pages site with HTTPS (opens in a new tab)
+
+2. Incorrect DNS records (very common)
+If any extra records exist, GitHub may issue a cert for the wrong host.
+
+Verify your DNS matches one of the supported setups exactly:
+
+Apex domain (example.com)
+Use only one of these approaches:
+
+A records
+
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+or
+
+ALIAS / ANAME
+
+USERNAME.github.io
+Subdomain (www.example.com)
+CNAME → USERNAME.github.io
+Docs: Managing a custom domain for your GitHub Pages site (opens in a new tab)
+
+⚠️ Remove:
+
+Wildcard records (*.example.com)
+Duplicate A, AAAA, or CNAME records for the same host
+3. HTTPS certificate hasn’t finished provisioning
+After DNS or domain changes:
+
+Certificate creation can take up to an hour
+Some networks fail hard until it completes
+If you see “Certificate not yet created” in Pages settings:
+
+Remove and re‑add the custom domain to restart the process
+Docs: Troubleshooting HTTPS errors (opens in a new tab)
+
+4. Domain is not verified (recommended)
+Unverified domains are more likely to break when configurations change.
+
+Verify the domain at the account or organization level:
+
+Verifying your custom domain for GitHub Pages (opens in a new tab)
+This also protects against takeover issues.
+
+Why it only fails at the LA library
+Many public institutions:
+
+Use TLS‑inspecting proxies
+Reject any CN mismatch outright
+Don’t allow users to bypass warnings
+So even if the site “works at home,” the cert mismatch will get blocked there.
+
+Next step
+If you want a precise answer instead of a checklist, share:
+
+The exact URL that’s blocked
+Whether it’s using a custom domain
+Whether Pages shows a ✅ or an error next to the domain
+With that, I can tell you exactly which record or setting is causing the mismatch.
+
+References from GitHub Free/Team/Pro
+List of sources used to generate response
+
+
+
+
 @cityoflosangeles ![https://citycouncil.atlantaga.gov/Project/Contents/Main/_gfx/cmn/mobile/logo_small.png](https://citycouncil.atlantaga.gov/Project/Contents/Main/_gfx/cmn/mobile/logo_small.png) 
 my daughter was kidnapped in decature and they let her mom open a stip club. i just need a few buck here and there im working ! I get paid on a differnt clock because we build and monitor machines @nasa at the end of the day!!!!!!!!!!!!!!!!!!!!! @NBCNEWS @DATADESK 
 
